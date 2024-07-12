@@ -1,1 +1,2 @@
-# Diabetes-Prediction
+Diabetes Prediction Using Machine Learning
+Developed a machine learning-based diabetes prediction system to assist healthcare professionals in early diagnosis and treatment planning. Utilized Python and scikit-learn to preprocess the dataset, train various models including logistic regression and random forests, and achieve high predictive accuracy. Implemented features like feature scaling and hyperparameter tuning to optimize model performance. Demonstrated the ability to leverage machine learning for predictive analytics in healthcare, showcasing proficiency in data science methodologies.
